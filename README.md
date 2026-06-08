@@ -2,6 +2,7 @@
 
 **Paper:** *Fast Exact Nearest-Neighbor Learning for High-Frequency Financial Time Series*  
 **Authors:** Henry Han, Diane Li
+
 **Code and data:** https://github.com/hank08819/MojoKtreeFin
 
 ---
