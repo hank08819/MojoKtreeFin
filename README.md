@@ -1,8 +1,7 @@
 # MojoKTree: SIMD K-D Tree KNN for Financial Time Series
 
 **Paper:** *Fast Exact Nearest-Neighbor Learning for High-Frequency Financial Time Series*  
-**Authors:** Henry Han (Baylor University), Diane Li (University of Maryland Eastern Shore)  
-**Published in:** Springer LNCS, 2026  
+**Authors:** Henry Han, Diane Li
 **Code and data:** https://github.com/hank08819/MojoKtreeFin
 
 ---
