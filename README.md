@@ -126,14 +126,3 @@ See the full `code/python/` directory for complete pipeline scripts.
 
 ---
 
-## Citation
-
-```bibtex
-@inproceedings{han2026mojo,
-  title={Fast Exact Nearest-Neighbor Learning for High-Frequency Financial Time Series},
-  author={Han, Henry and Li, Diane},
-  booktitle={Lecture Notes in Computer Science},
-  year={2026},
-  publisher={Springer}
-}
-```
