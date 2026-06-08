@@ -3,7 +3,7 @@
 **Paper:** *Fast Exact Nearest-Neighbor Learning for High-Frequency Financial Time Series*  
 **Authors:** Henry Han (Baylor University), Diane Li (University of Maryland Eastern Shore)  
 **Published in:** Springer LNCS, 2026  
-**Code and data:** [https://github.com/GITHUB_LINK](https://github.com/GITHUB_LINK)
+**Code and data:** https://github.com/hank08819/MojoKtreeFin
 
 ---
 
